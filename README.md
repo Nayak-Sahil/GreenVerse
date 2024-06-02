@@ -51,16 +51,5 @@ Want to contribute? Awesome! Follow these steps to contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
 
-## Contributors ✨
-
-- **Dhruvpuri Goswami** - *API Creation and AI Integration* - [@dhruvpuri-goswami](https://github.com/dhruvpuri-goswami)
-- **Arjav Prajapati** - *Backend Developer* - [@arjav-prajapati](https://github.com/arjav-prajapati)
-- **Sahil Nayak** - *Frontend Developer* - [@Nayak-Sahil](https://github.com/Nayak-Sahil)
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-
-
 ---
 © 2024 GreenVerse, Inc.
